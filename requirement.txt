@@ -4,3 +4,4 @@ train_test_split
 joblib
 streamlit
 FastAPI
+uvicorn
