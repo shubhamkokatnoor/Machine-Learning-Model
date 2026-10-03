@@ -2,3 +2,4 @@ pandas
 LinearRegression
 train_test_split
 joblib
+streamlit
